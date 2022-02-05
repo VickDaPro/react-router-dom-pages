@@ -1,6 +1,6 @@
 import React from "react";
 
-function About(props) {
+function About() {
   // make about Link disappear when user clicks on it
   //   const aboutLink = document.querySelector(".nav-links-about");
   //   aboutLink.style.display = "none";

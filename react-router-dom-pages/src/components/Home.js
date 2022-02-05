@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home(props) {
+function Home() {
   return (
     <section className="hero">
       <img src="../images/photo-grid.png" className="hero--photo" />
